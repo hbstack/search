@@ -1,0 +1,12 @@
+github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
+github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
+github.com/hbstack/hb v0.1.2 h1:GEx20g1w53Do3bu3aiyK5ubfkpjQIcHNHBx1lJKCzCk=
+github.com/hbstack/hb v0.1.2/go.mod h1:j1CyW+HWmbqdAgagn8FPEtdTGZEdTHVZdml+vqfsKiU=
+github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
+github.com/hugomods/icons v0.6.0/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P31gPNGg=
+github.com/hugomods/search v0.1.0 h1:a1Mv17JY2zkd2gpTF9hdEXvKPJvMdWYqfT0RP4jdLLQ=
+github.com/hugomods/search v0.1.0/go.mod h1:CtE2vosGhBCUADzSEHYf2VPJbm3SQegtC/VYZSlDT7c=
+github.com/krisk/Fuse v6.6.2+incompatible h1:laigOpZFs/xUi9zGjVu5t19bcvzRVufoXCnPSgQZmYI=
+github.com/krisk/Fuse v6.6.2+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
+github.com/twbs/icons v1.10.3 h1:8i0wcDkk04KXd2ofLtMHUERkA5OkrpAzDyBVv/PJaL0=
+github.com/twbs/icons v1.10.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
