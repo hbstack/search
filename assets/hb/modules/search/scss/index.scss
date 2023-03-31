@@ -2,7 +2,7 @@
 @import "../../../../search/scss/index";
 
 :root {
-    --search-primary: var(--#{$prefix}primary);
+    --search-primary: var(--#{$prefix}primary-text-emphasis);
     --search-bg: var(--#{$prefix}body-bg);
     --search-color: var(--#{$prefix}body-color);
     --search-color-secondary: var(--#{$prefix}secondary-color);
