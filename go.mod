@@ -7,6 +7,6 @@ require (
 	github.com/hbstack/hb v0.7.1 // indirect
 	github.com/hugomods/icons v0.6.0 // indirect
 	github.com/hugomods/search v0.5.0 // indirect
-	github.com/krisk/Fuse v6.6.2+incompatible // indirect
+	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/twbs/icons v1.11.1 // indirect
 )
