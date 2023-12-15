@@ -1,0 +1,11 @@
+{{- define "title" }}
+  {{- printf "%s - %s" (i18n "search") .Site.Title -}}
+{{- end }}
+
+{{- define "main" }}
+  {{ partial "hb/modules/search/assets/css" . }}
+  <div class="hb-module">
+    {{ partial "search/index" . }}
+  </div>
+  {{ partial "search/assets/js" . }}
+{{- end -}}

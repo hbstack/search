@@ -1,0 +1,13 @@
+{{- $rtl := eq .Language.LanguageDirection "rtl" }}
+{{- $opts := dict
+  "targetPath" (cond $rtl "css/search.rtl.css" "css/search.css")
+  "outputStyle" (cond hugo.IsProduction "compressed" "")
+  "vars" (dict
+    "prefix" (default "hb" site.Params.hb.styles.prefix)
+  )
+}}
+{{- $css := resources.Get "hb/modules/search/index.scss" | toCSS $opts }}
+{{- if hugo.IsProduction }}
+  {{- $css = $css | fingerprint }}
+{{- end }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" />

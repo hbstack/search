@@ -6,3 +6,13 @@ path = "github.com/hbstack/hb"
 
 [params.hugopress.modules.search.hooks.head-end]
 disabled = true
+
+[params.hugopress.modules.search.hooks.body-end]
+disabled = true
+
+[params.hugopress.modules.hb-search.hooks.head-end]
+
+[params.hugopress.modules.hb-search.hooks.body-end]
+
+[params.hb.search]
+modal = true
