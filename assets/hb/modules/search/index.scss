@@ -1,5 +1,5 @@
-/*! purgecss start ignore */
-@import "../../../../search/scss/index";
+@import "hugo:vars";
+@import "../../../search/scss/index";
 
 :root {
     --search-primary: var(--#{$prefix}primary);
@@ -21,5 +21,3 @@
         padding: 0;
     }
 }
-
-/*! purgecss start end */

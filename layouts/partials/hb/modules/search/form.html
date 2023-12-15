@@ -1,0 +1,10 @@
+{{- $url := partial "search/functions/search-url" . }}
+<form class="hb-module hb-search-form position-relative" action="{{ $url }}">
+  <input name="q" class="form-control form-control-lg pe-5" placeholder="{{ i18n `search` }}">
+  <button
+    type="submit"
+    class="position-absolute end-0 top-0 mt-4 me-4 p-0 border-0 bg-transparent"
+    title="{{ i18n `search` }}">
+    {{ partial "icons/icon" (dict "vendor" "bs" "name" "search" "width" "1.5rem" "height" "1.5rem") }}
+  </button>
+</form>
