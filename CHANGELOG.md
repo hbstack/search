@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/hbstack/search/compare/v0.2.0...v0.2.1) (2023-12-21)
+
+
+### Styles 🎨
+
+* correct the icon's margin and padding on form ([#125](https://github.com/hbstack/search/issues/125)) ([491e6aa](https://github.com/hbstack/search/commit/491e6aa1771651c8f97872730073369978421d06))
+
 ## [0.2.0](https://github.com/hbstack/search/compare/v0.1.7...v0.2.0) (2023-12-16)
 
 
