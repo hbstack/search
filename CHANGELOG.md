@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.2.2](https://github.com/hbstack/search/compare/v0.2.1...v0.2.2) (2024-06-01)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6.1.0 ([eb14846](https://github.com/hbstack/search/commit/eb14846a2ffd028491dfe56f299d672be49fb0d4))
+* **deps:** update dependency stylelint-scss to v6.2.0 ([bc6a1f2](https://github.com/hbstack/search/commit/bc6a1f2fc6fdada868a9079b2902b366d48ae7fb))
+* **deps:** update dependency stylelint-scss to v6.2.1 ([3ac8143](https://github.com/hbstack/search/commit/3ac8143edd654a683151cb45037c63a61e94bd68))
+
+
+### Performance Improvements ⚡️
+
+* cache hooks ([2e14fe2](https://github.com/hbstack/search/commit/2e14fe21c26284f731a1284ca51adfa41448d206))
+
 ## [0.2.1](https://github.com/hbstack/search/compare/v0.2.0...v0.2.1) (2023-12-21)
 
 
