@@ -11,8 +11,11 @@ disabled = true
 disabled = true
 
 [params.hugopress.modules.hb-search.hooks.head-end]
+cacheable = true
 
 [params.hugopress.modules.hb-search.hooks.body-end]
+cacheable = true
+cache_site_param_key = "hb.search.modal"
 
 [params.hb.search]
 modal = true
